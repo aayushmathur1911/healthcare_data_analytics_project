@@ -1,5 +1,7 @@
 # 🏥 Healthcare Data Analytics Dashboard
+
 🚀 End-to-end Data Analytics Project | Python • SQL • Power BI
+
 A comprehensive data analytics project analyzing hospital performance across multiple cities using Python, SQL, and Power BI.
 
 🔗 **Portfolio:** https://github.com/aayushmathur1911
