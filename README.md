@@ -1,14 +1,32 @@
+# 🏥 Healthcare Data Analytics Dashboard
+🚀 End-to-end Data Analytics Project | Python • SQL • Power BI
+A comprehensive data analytics project analyzing hospital performance across multiple cities using Python, SQL, and Power BI.
+
+🔗 **Portfolio:** https://github.com/aayushmathur1911
+
+
+
 # 🏥 Multi-City Hospital Performance Dashboard
 
+
 ## 📊 Dashboard Preview
+
 ![Dashboard](dashboard.png)
 
+🔍 **Key Highlights:**
+- Multi-city hospital performance tracking  
+- Disease-wise cost analysis  
+- Monthly patient trends  
+- Payment status insights   
+
 ---
+
 
 ## 📄 Project Report
 
 📥 Download the detailed project report here:  
 [Healthcare Data Analytics Report](Healthcare_Data_Analytics_Report.pdf)
+
 
 ## 📌 Overview
 This project focuses on analyzing healthcare data across multiple cities to evaluate hospital performance, patient trends, revenue, and treatment costs.
@@ -22,26 +40,27 @@ This project focuses on analyzing healthcare data across multiple cities to eval
 
 ---
 
-## 📂 Project Workflow
+## ❓ Problem Statement
 
-1. **Data Creation**
-   - Generated synthetic healthcare dataset using Python
+Healthcare organizations generate large amounts of data, but extracting meaningful insights from this data is challenging.
 
-2. **Data Cleaning & Processing**
-   - Handled missing values
-   - Created new features (Age Group, Final Bill)
+This project aims to analyze patient data to uncover trends in revenue, disease distribution, and treatment costs across multiple cities.
 
-3. **Data Analysis**
-   - Performed analysis using Pandas & NumPy
 
-4. **SQL Integration**
-   - Connected processed data to MySQL
-   - Performed queries for filtering and insights
+## 🔄 Data Analytics Workflow
 
-5. **Data Visualization**
-   - Built an interactive Power BI dashboard
+1. Data Generation using Python  
+2. Data Cleaning & Feature Engineering  
+3. SQL Integration and Query Execution  
+4. Data Visualization using Power BI  
 
 ---
+## 🛠️ Tools Used
+
+- Python (Pandas, NumPy)  
+- SQL (MySQL)  
+- Power BI
+
 
 ## 📊 Dashboard Features
 
@@ -77,4 +96,22 @@ This project focuses on analyzing healthcare data across multiple cities to eval
 
 ## 📁 Project Structure
 
+## 🎯 Business Impact
 
+This project demonstrates how healthcare organizations can:
+
+- Identify high-cost diseases  
+- Track revenue across multiple cities  
+- Monitor unpaid payments  
+- Improve decision-making using data analytics
+
+
+## ▶️ How to Use
+
+1. Download dataset  
+2. Run Python notebooks  
+3. Execute SQL queries  
+4. Open Power BI dashboard
+
+
+⭐ If you found this project useful, feel free to star the repository!
