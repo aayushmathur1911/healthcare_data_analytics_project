@@ -62,12 +62,6 @@ This project aims to analyze patient data to uncover trends in revenue, disease 
 
 ---
 
-## 🛠️ Tools Used
-
-- Python (Pandas, NumPy)  
-- SQL (MySQL)  
-- Power BI
-
 
 ## 📊 Dashboard Features
 
