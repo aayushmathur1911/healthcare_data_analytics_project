@@ -25,6 +25,28 @@ A comprehensive data analytics project analyzing hospital performance across mul
 
 ---
 
+## 📊 Dashboard Features
+
+- KPI Metrics:
+  - Total Patients
+  - Total Revenue
+  - Avg Treatment Cost
+  - Avg Patient Age
+
+- Visual Insights:
+  - Revenue by City
+  - Disease Distribution
+  - Patient Outcome Analysis
+  - Cost Analysis by Disease
+  - Monthly Patient Trends
+  - Payment Status Overview
+
+- Filters:
+  - City
+  - Disease
+
+---
+
 
 ## 📄 Project Report
 
@@ -59,29 +81,6 @@ This project aims to analyze patient data to uncover trends in revenue, disease 
 2. Data Cleaning & Feature Engineering  
 3. SQL Integration and Query Execution  
 4. Data Visualization using Power BI  
-
----
-
-
-## 📊 Dashboard Features
-
-- KPI Metrics:
-  - Total Patients
-  - Total Revenue
-  - Avg Treatment Cost
-  - Avg Patient Age
-
-- Visual Insights:
-  - Revenue by City
-  - Disease Distribution
-  - Patient Outcome Analysis
-  - Cost Analysis by Disease
-  - Monthly Patient Trends
-  - Payment Status Overview
-
-- Filters:
-  - City
-  - Disease
 
 ---
 
