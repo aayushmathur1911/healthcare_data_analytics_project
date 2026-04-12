@@ -5,6 +5,11 @@
 
 ---
 
+## 📄 Project Report
+
+📥 Download the detailed project report here:  
+[Healthcare Data Analytics Report](Healthcare_Data_Analytics_Report.pdf)
+
 ## 📌 Overview
 This project focuses on analyzing healthcare data across multiple cities to evaluate hospital performance, patient trends, revenue, and treatment costs.
 
@@ -72,7 +77,4 @@ This project focuses on analyzing healthcare data across multiple cities to eval
 
 ## 📁 Project Structure
 
-## 📄 Project Report
 
-📥 Download the detailed project report here:  
-[Healthcare Data Analytics Report](Healthcare_Data_Analytics_Report.pdf)
